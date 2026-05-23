@@ -254,6 +254,10 @@ K-pop boy group album cover, cinematic neon lighting, emotional atmosphere, luxu
 #### 결과
 <img width="1024" height="1024" alt="lucid-origin_K-pop_boy_group_album_cover_cinematic_neon_lighting_emotional_atmosphere_luxury_-0 (1)" src="https://github.com/user-attachments/assets/2ede2b72-c2c2-4f3d-bdcc-6a1f6754e3be" />
 
+---
+
+<br>
+<br>
 
 ### Ganmma로 발표자료 생성 프롬프트
 ```
